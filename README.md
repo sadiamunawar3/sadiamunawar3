@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sadiamunawar3
 - 👀 I’m interested in learning Data Science
 - 🌱 I’m currently learning programming languages esp python including the libraries necassary for DS 
-- 💞️ I’m looking to collaborate on any project that a newbie like me can collab on
 - 📫 How to reach me ... you can reach me through my email i.e sadia.munawar3@gmail.com
 
 <!---
